@@ -7,6 +7,7 @@ const allowedOrigins = [
     'https://longing-head-production.up.railway.app',
     'https://reactclient-production.up.railway.app',
     'https://reactclient-production.up.railway.app/',
+    'https://reactproject3client-production.up.railway.app/',
     'https://reactclient-production.up.railway.app/Article/',
     'https://reactclient-production.up.railway.app/Article2/',
     'https://reactclient-production.up.railway.app/Article/1',
